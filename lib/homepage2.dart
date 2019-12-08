@@ -8,6 +8,7 @@ class HomePage2 extends StatelessWidget {
         child: Text(
           'Welcome To 2nd Page',
           style: TextStyle(fontSize: 20.0),
+          //git commit
         ),
       ),
     );
